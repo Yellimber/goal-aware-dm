@@ -1,0 +1,44 @@
+tag,meaning,example,count,%
+sd,Statement-non-opinion," Me,  I'm in the legal department.","72,824 ",36%
+b,Acknowledge (Backchannel) ,Uh-huh.," 37,096 ",19%
+sv,Statement-opinion,I think it's great," 25,197 ",13%
+aa,Agree/Accept,That's exactly it.," 10,820 ",5%
+%-,Abandoned or Turn-Exit ,"So, -","10,569 ",5\% 
+ba,Appreciation,I can imagine.," 4,633 ",2%
+qy,Yes-No-Question,Do you have to have any special training?,"4,624 ",2%
+x,Non-verbal ,"[Laughter], [Throat_clearing]","3,548 ",2% 
+ny,Yes answers ,Yes.," 2,934 ",1%
+fc,Conventional-closing,"Well, it's been nice talking to you."," 2,486 ",1%
+%,Uninterpretable,"But, uh, yeah ","2,158 ",1\%
+qw,Wh-Question,"Well,  how old are you?","1,911 ",1%
+nn,No answers,No.," 1,340 ",1%
+bk,Response Acknowledgement,"Oh, okay.","1,277",1% 
+h,Hedge,I don't know if I'm making any sense or not.,"1,182 ",1% 
+qy^d,Declarative Yes-No-Question ,So you can afford to get a house?," 1,174 ",1%
+"o,fo,bc,by,fw",Other," Well give me a break, you know. ","1,074 ",1%
+bh,Backchannel in question form ,Is that right?," 1,019 ",1%
+^q,Quotation,You can't be pregnant and have cats, 934,.5%
+bf,Summarize/reformulate,"Oh, you mean you switched schools for the kids.", 919 ,.5%
+"na,ny^e",Affirmative non-yes answers,It is., 836 ,.4%
+ad,Action-directive          ,Why don't you go first, 719 ,.4%
+^2,Collaborative Completion,Who aren't contributing.,699,.4%
+b^m,Repeat-phrase,"Oh, fajitas", 660 ,.3%
+qo,Open-Question,How about you?,632 ,.3%
+qh,Rhetorical-Questions,Who would steal a newspaper?  ,557,.2%
+^h,Hold before answer/agreement,I'm drawing a blank., 540 ,.3%
+ar,Reject,"Well, no",338,.2% 
+"ng,nn^e",Negative non-no answers," Uh,  not a whole lot.",292 ,.1% 
+br,Signal-non-understanding,Excuse me?  , 288 ,.1%
+no,Other answers,I don't know, 279 ,.1%
+fp,Conventional-opening,How are you?,220 ,.1%
+qrr,Or-Clause,or is it more of a company?,207 ,.1%
+"arp,nd",Dispreferred answers,"Well, not so much that.", 205 ,.1%
+t3,3rd-party-talk    ,"My goodness, Diane, get down from there.", 115 ,.1%
+"oo,cc,co","Offers, Options Commits",I'll have to check that out,109 ,.1%
+t1,Self-talk,What's the word I'm looking for, 102 ,.1%
+bd,Downplayer,That's all right., 100 ,.1%
+aap/am,Maybe/Accept-part,Something like that, 98 ,<.1%
+^g,Tag-Question,Right?,93 ,<.1%
+qw^d,Declarative Wh-Question,You are what kind of buff?,80 ,<.1%
+fa,Apology,I'm sorry.,76 ,<.1% 
+fa,Thanking, Hey thanks a  lot,67 ,<.1%
