@@ -1,0 +1,6 @@
+act_tag,speaker,pos,text
+,A,We/PRON are/AUX going/VERB to/ADP the/DET concert/NOUN this/DET evening/NOUN ./PUNCT ,We are going to the concert this evening .
+,A,Will/AUX you/PRON join/VERB us/PRON ./PUNCT ,Will you join us .
+,B,I/PRON 'm/AUX very/ADV sorry/ADJ I/PRON ca/AUX n't/PART ./PUNCT ,I'm very sorry I can't .
+,A,Why/SCONJ not/PART ?/PUNCT ,Why not ?
+,B,I/PRON 've/AUX been/AUX snowed/VERB under/ADP with/ADP since/SCONJ my/PRON bosses/NOUN away/ADV on/ADP business/NOUN ./PUNCT ,I've been snowed under with since my bosses away on business .

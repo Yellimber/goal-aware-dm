@@ -1,0 +1,5 @@
+act_tag,speaker,pos,text
+,A,Who/PRON 's/AUX that/DET old/ADJ lady/NOUN trimming/VERB the/DET trees/NOUN ?/PUNCT ,Who's that old lady trimming the trees ?
+,B,She/PRON 's/AUX my/PRON grandma/NOUN ./PUNCT ,She's my grandma .
+,A,She/PRON 's/AUX looks/VERB very/ADV healthy/ADJ ./PUNCT How/SCONJ old/ADJ is/AUX she/PRON ?/PUNCT ,She's looks very healthy.How old is she ?
+,B,92/NUM ./PUNCT ,92 .

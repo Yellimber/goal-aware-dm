@@ -1,0 +1,5 @@
+act_tag,speaker,pos,text
+,A,I/PRON 'm/AUX going/VERB to/ADP Japan/PROPN this/DET year/NOUN on/ADP vacation/NOUN ./PUNCT ,I'm going to Japan this year on vacation .
+,B,Have/AUX you/PRON ever/ADV been/AUX to/ADP America/PROPN ?/PUNCT ,Have you ever been to America ?
+,A,"No/INTJ ,/PUNCT but/CCONJ I/PRON 'd/AUX really/ADV like/VERB to/PART ./PUNCT ","No , but I'd really like to ."
+,B,You/PRON 'd/AUX like/VERB it/PRON ./PUNCT ,You'd like it .

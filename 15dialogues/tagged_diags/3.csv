@@ -1,0 +1,7 @@
+act_tag,speaker,pos,text
+,A,Boy/INTJ !/PUNCT ,Boy !
+,A,What/PRON a/DET beauty/NOUN !/PUNCT ,What a beauty !
+,A,I/PRON fall/VERB in/ADP love/NOUN with/ADP her/PRON at/ADP the/DET first/ADJ sight/NOUN ./PUNCT ,I fall in love with her at the first sight .
+,B,The/DET beauty/NOUN under/ADP the/DET tree/NOUN ?/PUNCT ,The beauty under the tree ?
+,A,Of/ADV course/ADV ./PUNCT No/DET girl/NOUN is/AUX more/ADV charming/ADJ ./PUNCT ,Of course.No girl is more charming .
+,B,She/PRON is/AUX a/DET young/ADJ man/NOUN !/PUNCT ,She is a young man !

@@ -1,0 +1,11 @@
+act_tag,speaker,pos,text
+,A,"You'v/AUX been/AUX work/NOUN here/ADV for/ADP nearly/ADV a/PRON month/NOUN ,/PUNCT how/SCONJ do/AUX you/PRON feel/VERB about/ADP the/DET job/NOUN ?/PUNCT ","You'v been work here for nearly a month , how do you feel about the job ?"
+,B,Not/PART bad/ADJ ./PUNCT Thank/VERB you/PRON for/ADP your/PRON help/NOUN ./PUNCT ,Not bad.Thank you for your help .
+,B,"I/PRON am/AUX always/ADV busy/ADJ with/ADP this/DET job/NOUN ,/PUNCT I/PRON feel/VERB a/DET bit/NOUN tired/ADJ ./PUNCT ","I am always busy with this job , I feel a bit tired ."
+,A,I/PRON had/VERB the/DET same/ADJ feeling/NOUN when/SCONJ I/PRON first/ADV came/VERB to/ADP work/NOUN here/ADV ./PUNCT ,I had the same feeling when I first came to work here .
+,A,"but/CCONJ after/ADP a/DET period/NOUN of/ADP time/NOUN ,/PUNCT I/PRON feel/VERB better/ADJ ,/PUNCT I/PRON am/AUX sure/ADJ you/PRON '/PUNCT ll/AUX get/AUX used/VERB to/ADP this/DET busy/ADJ job/NOUN ./PUNCT ","but after a period of time , I feel better , I am sure you ' ll get used to this busy job ."
+,B,I/PRON also/ADV feel/VERB that/SCONJ work/NOUN efficiency/NOUN here/ADV is/AUX very/ADV high/ADJ ./PUNCT ,I also feel that work efficiency here is very high .
+,B,"and/CCONJ you/PRON have/VERB strong/ADJ working/NOUN ability/NOUN and/CCONJ professional/ADJ skill/NOUN ,/PUNCT it/PRON seems/VERB that/SCONJ you/PRON know/VERB all/PRON ,/PUNCT that/PRON 's/AUX really/ADV wonderful/ADJ !/PUNCT ","and you have strong working ability and professional skill , it seems that you know all , that's really wonderful !"
+,A,"You/PRON know/VERB the/DET phrase/NOUN ,/PUNCT the/DET survival/NOUN the/DET fittest/ADJ ./PUNCT ","You know the phrase , the survival the fittest ."
+,A,We/PRON have/VERB no/DET choices/NOUN ./PUNCT ,We have no choices .
+,B,"That/PRON 's/AUX right/ADJ ,/PUNCT I/PRON have/VERB to/PART work/VERB hard/ADV ./PUNCT ","That's right , I have to work hard ."

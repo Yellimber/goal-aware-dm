@@ -1,0 +1,10 @@
+act_tag,speaker,pos,text
+,A,Excuse/VERB me/PRON ./PUNCT ,Excuse me .
+,A,I/PRON 'm/AUX afraid/ADJ you/PRON 're/AUX in/ADP my/PRON seat/NOUN ./PUNCT ,I'm afraid you're in my seat .
+,A,You/PRON 've/AUX moved/VERB my/PRON books/NOUN ./PUNCT ,You've moved my books .
+,B,"Oh/INTJ ,/PUNCT dear/ADJ ./PUNCT ","Oh , dear ."
+,A,You/PRON must/AUX have/AUX realized/VERB somebody/PRON was/AUX here/ADV ./PUNCT ,You must have realized somebody was here .
+,B,"Oh/INTJ ,/PUNCT well/INTJ ,/PUNCT I/PRON looked/VERB around/ADV ./PUNCT ","Oh , well , I looked around ."
+,B,There/PRON was/VERB n't/PART any/DET other/ADJ space/NOUN ./PUNCT ,There wasn't any other space .
+,B,I/PRON waited/VERB a/DET while/NOUN and/CCONJ nobody/PRON came/VERB ./PUNCT ,I waited a while and nobody came .
+,B,I/PRON 'm/AUX sorry/ADJ if/SCONJ I/PRON 've/AUX taken/VERB your/PRON place/NOUN ./PUNCT ,I'm sorry if I've taken your place .

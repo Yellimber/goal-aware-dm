@@ -1,0 +1,22 @@
+act_tag,speaker,pos,text
+,A,"Hey/INTJ ,/PUNCT Mark/PROPN ,/PUNCT long/ADJ time/NOUN no/INTJ see/NOUN ./PUNCT ","Hey , Mark , long time no see ."
+,B,Julie/PROPN !/PUNCT ,Julie !
+,B,It/PRON 's/AUX good/ADJ to/PART see/VERB you/PRON again/ADV ./PUNCT ,It's good to see you again .
+,B,How/SCONJ have/AUX you/PRON been/AUX ?/PUNCT ,How have you been ?
+,A,Great/INTJ ./PUNCT ,Great .
+,A,I/PRON just/ADV got/VERB back/ADV from/ADP a/DET week/NOUN 's/PART vacation/NOUN in/ADP Thailand/PROPN ./PUNCT ,I just got back from a week's vacation in Thailand .
+,B,Really/ADV ?/PUNCT ,Really ?
+,B,How/SCONJ was/AUX it/PRON ?/PUNCT ,How was it ?
+,A,Fantastic/ADJ !/PUNCT ,Fantastic !
+,A,I/PRON did/AUX n't/PART want/VERB to/PART come/VERB back/ADV ./PUNCT ,I didn't want to come back .
+,B,I/PRON hear/VERB the/DET beaches/NOUN in/ADP Thailand/PROPN are/AUX beautiful/ADJ ./PUNCT ,I hear the beaches in Thailand are beautiful .
+,A,They/PRON are/AUX ./PUNCT ,They are .
+,A,"And/CCONJ not/PART only/ADV that/SCONJ the/DET people/NOUN are/AUX friendly/ADJ ,/PUNCT but/CCONJ also/ADV the/DET food/NOUN is/AUX delicious/ADJ ,/PUNCT not/PART to/PART mention/VERB cheap/ADJ ./PUNCT ","And not only that the people are friendly , but also the food is delicious , not to mention cheap ."
+,B,I/PRON do/VERB like/INTJ Thai/PROPN food/NOUN ./PUNCT ,I do like Thai food .
+,B,Did/AUX you/PRON see/VERB much/ADJ of/ADP Bangkok/PROPN ?/PUNCT ,Did you see much of Bangkok ?
+,A,Not/PART much/ADJ ./PUNCT ,Not much .
+,A,I/PRON 've/AUX got/VERB enough/ADJ city/NOUN life/NOUN in/ADP Beijing/PROPN ./PUNCT ,I've got enough city life in Beijing .
+,B,I/PRON know/VERB what/PRON you/PRON mean/VERB ./PUNCT ,I know what you mean .
+,B,I/PRON could/AUX use/VERB a/DET vacation/NOUN myself/PRON ./PUNCT ,I could use a vacation myself .
+,A,"Hey/INTJ ,/PUNCT would/AUX n't/PART it/PRON be/AUX great/ADJ if/SCONJ we/PRON could/AUX go/VERB to/ADP Thailand/PROPN together/ADV sometime/ADV ?/PUNCT ","Hey , wouldn't it be great if we could go to Thailand together sometime ?"
+,B,"Yeah/INTJ ,/PUNCT it/PRON sure/ADV would/AUX ./PUNCT ","Yeah , it sure would ."

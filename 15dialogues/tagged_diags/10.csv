@@ -1,0 +1,11 @@
+act_tag,speaker,pos,text
+,A,Could/AUX I/PRON see/VERB the/DET manager/NOUN please/INTJ ?/PUNCT ,Could I see the manager please ?
+,A,I/PRON have/VERB a/DET complaint/NOUN to/PART make/VERB ./PUNCT ,I have a complaint to make .
+,B,"Yes/INTJ ,/PUNCT I/PRON ’/PUNCT m/VERB the/DET manager/NOUN here/ADV ./PUNCT ","Yes , I ’ m the manager here ."
+,B,"What/PRON can/AUX I/PRON do/VERB for/ADP you/PRON ,/PUNCT Madam/PROPN ?/PUNCT ","What can I do for you , Madam ?"
+,A,Did/AUX you/PRON have/VERB the/DET room/NOUN checked/VERB before/SCONJ we/PRON move/VERB in/ADV ?/PUNCT ,Did you have the room checked before we move in ?
+,B,Which/DET room/NOUN are/AUX you/PRON in/ADP ?/PUNCT ,Which room are you in ?
+,A,1808/NUM ./PUNCT ,1808 .
+,A,"The/DET toilet/NOUN doesn/PROPN ’/PUNCT t/PROPN work/VERB properly/ADV ,/PUNCT the/DET water/NOUN doesn/NOUN ’/PUNCT t/PROPN run/VERB in/ADP the/DET shower/NOUN ./PUNCT ","The toilet doesn ’ t work properly , the water doesn ’ t run in the shower ."
+,B,I/PRON ’/PUNCT m/VERB awfully/ADV sorry/ADJ to/PART hear/VERB that/PRON ./PUNCT ,I ’ m awfully sorry to hear that .
+,B,I/PRON ’/PUNCT ll/AUX turn/VERB to/ADP it/PRON right/ADV away/ADV ./PUNCT ,I ’ ll turn to it right away .

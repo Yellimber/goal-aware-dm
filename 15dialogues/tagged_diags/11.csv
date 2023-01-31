@@ -1,0 +1,22 @@
+act_tag,speaker,pos,text
+,A,"Congratulations/NOUN ,/PUNCT Vivian/PROPN ./PUNCT ","Congratulations , Vivian ."
+,A,"You/PRON won/VERB the/DET grand/ADJ prize/NOUN ,/PUNCT again/ADV ./PUNCT ","You won the grand prize , again ."
+,B,Is/AUX n't/PART it/PRON just/ADV great/ADJ !/PUNCT ,Isn't it just great !
+,B,I/PRON just/ADV knew/VERB I/PRON 'd/AUX win/VERB !/PUNCT ,I just knew I'd win !
+,A,You/PRON did/VERB ?/PUNCT ,You did ?
+,A,How/SCONJ ?/PUNCT ,How ?
+,A,Did/AUX you/PRON wear/VERB red/ADJ underwear/NOUN again/ADV this/DET year/NOUN ?/PUNCT ,Did you wear red underwear again this year ?
+,B,Not/PART only/ADV that/PRON !/PUNCT ,Not only that !
+,A,Tell/VERB me/PRON !/PUNCT ,Tell me !
+,A,Tell/VERB me/PRON !/PUNCT ,Tell me !
+,A,What/PRON 's/AUX your/PRON secret/NOUN ?/PUNCT ,What's your secret ?
+,A,!/PUNCT ,!
+,B,"OK/INTJ ,/PUNCT OK/INTJ ./PUNCT ","OK , OK ."
+,B,"I/PRON 'll/AUX whisper/VERB it/PRON to/ADP you/PRON ,/PUNCT but/CCONJ you/PRON have/VERB to/PART promise/VERB not/PART to/PART tell/VERB anyone/PRON !/PUNCT ","I'll whisper it to you , but you have to promise not to tell anyone !"
+,A,What/PRON ?/PUNCT ,What ?
+,A,!/PUNCT ,!
+,A,You/PRON did/VERB that/PRON ?/PUNCT ,You did that ?
+,A,?/PUNCT ,?
+,A,!/PUNCT ,!
+,A,!/PUNCT ,!
+,A,!/PUNCT ,!

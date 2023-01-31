@@ -1,0 +1,18 @@
+act_tag,speaker,pos,text
+,A,"Excuse/VERB me/PRON ,/PUNCT is/AUX this/DET seat/NOUN taken/VERB ?/PUNCT ","Excuse me , is this seat taken ?"
+,B,"No/INTJ ,/PUNCT please/INTJ feel/VERB free/ADJ ./PUNCT ","No , please feel free ."
+,A,Thanks/NOUN a/DET lot/NOUN ./PUNCT ,Thanks a lot .
+,B,Do/AUX you/PRON work/VERB in/ADP Shanghai/PROPN ?/PUNCT ,Do you work in Shanghai ?
+,A,Yes/INTJ I/PRON do/VERB ./PUNCT ,Yes I do .
+,A,How/SCONJ about/ADP you/PRON ?/PUNCT ,How about you ?
+,B,"No/INTJ ,/PUNCT I/PRON 'm/AUX a/DET tourist/NOUN ./PUNCT ","No , I'm a tourist ."
+,B,This/DET place/NOUN is/AUX amazing/ADJ !/PUNCT ,This place is amazing !
+,B,"It/PRON 's/AUX much/ADV bigger/ADJ than/SCONJ I/PRON imagined/VERB ,/PUNCT and/CCONJ much/ADV more/ADV exciting/ADJ !/PUNCT ","It's much bigger than I imagined , and much more exciting !"
+,B,There/PRON 's/VERB so/ADV much/ADJ to/PART see/VERB here/ADV ./PUNCT ,There's so much to see here .
+,A,You/PRON can/AUX say/VERB that/PRON again/ADV !/PUNCT ,You can say that again !
+,A,It/PRON 's/AUX much/ADV more/ADV modern/ADJ than/SCONJ people/NOUN imagine/VERB ./PUNCT ,It's much more modern than people imagine .
+,A,Where/SCONJ are/AUX you/PRON from/ADP ?/PUNCT ,Where are you from ?
+,B,"Um/INTJ ,/PUNCT well/INTJ let/VERB 's/PRON see/VERB .../PUNCT ","Um , well let's see ..."
+,B,I/PRON 'm/AUX from/ADP Kansas/PROPN originally/ADV ./PUNCT ,I'm from Kansas originally .
+,B,"A/DET much/ADJ quieter/NOUN and/CCONJ more/ADV peaceful/ADJ place/NOUN than/ADP here/ADV ,/PUNCT that/PRON 's/AUX for/ADP sure/ADJ !/PUNCT ","A much quieter and more peaceful place than here , that's for sure !"
+,A,Uh/INTJ huh/INTJ .../PUNCT ,Uh huh ...

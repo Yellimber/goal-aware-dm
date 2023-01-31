@@ -1,0 +1,14 @@
+act_tag,speaker,pos,text
+,A,"Look/VERB at/ADP this/DET headline/NOUN ,/PUNCT Soo/PROPN Mi/PROPN ./PUNCT ","Look at this headline , Soo Mi ."
+,B,Wow/INTJ !/PUNCT ,Wow !
+,B,So/ADV many/ADJ people/NOUN in/ADP the/DET United/PROPN States/PROPN get/VERB divorced/VERB !/PUNCT ,So many people in the United States get divorced !
+,A,Is/AUX it/PRON the/DET same/ADJ in/ADP Korea/PROPN ?/PUNCT ,Is it the same in Korea ?
+,B,I/PRON do/AUX n't/PART think/VERB so/ADV ./PUNCT ,I don't think so .
+,B,"In/ADP Korea/PROPN some/DET marriages/NOUN break/VERB up/ADP ,/PUNCT but/CCONJ most/ADJ couples/NOUN stay/VERB together/ADV ./PUNCT ","In Korea some marriages break up , but most couples stay together ."
+,A,Do/AUX people/NOUN get/VERB married/VERB young/ADJ ?/PUNCT ,Do people get married young ?
+,B,Not/PART really/ADV ./PUNCT ,Not really .
+,B,Very/ADV few/ADJ people/NOUN get/AUX married/VERB beforethe/DET age/NOUN of/ADP 20/NUM ./PUNCT ,Very few people get married beforethe age of 20 .
+,A,Hmm/INTJ ./PUNCT ,Hmm .
+,A,Do/AUX women/NOUN usually/ADV work/VERB after/SCONJ they/PRON get/AUX married/VERB ?/PUNCT ,Do women usually work after they get married ?
+,B,"No/INTJ ,/PUNCT a/DET lot/NOUN of/ADP women/NOUN stay/VERB home/ADV and/CCONJ take/VERB care/NOUN of/ADP their/PRON families/NOUN ./PUNCT ","No , a lot of women stay home and take care of their families ."
+,B,But/CCONJ some/DET work/NOUN ./PUNCT ,But some work .

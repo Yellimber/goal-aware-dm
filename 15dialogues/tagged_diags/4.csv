@@ -1,0 +1,6 @@
+act_tag,speaker,pos,text
+,A,Excuse/VERB me/PRON ./PUNCT Where/SCONJ do/AUX I/PRON register/VERB ?/PUNCT ,Excuse me.Where do I register ?
+,B,"Oh/INTJ ,/PUNCT over/ADV there/ADV in/ADP Pacific/PROPN Pavilion/PROPN ./PUNCT ","Oh , over there in Pacific Pavilion ."
+,A,"Is/AUX that/PRON the/DET large/ADJ ,/PUNCT white/ADJ building/NOUN ?/PUNCT ","Is that the large , white building ?"
+,B,"Yeah/INTJ ,/PUNCT that/PRON 's/AUX it/PRON ./PUNCT ","Yeah , that's it ."
+,A,Thanks/NOUN ./PUNCT ,Thanks .
